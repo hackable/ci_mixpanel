@@ -1,0 +1,6 @@
+It's a simple Curl interface which interacts with Mixpanel API.
+Install PHP 5.0.1 or higher, if not already installed.
+Install PHP's Curl extension, if not already installed. Odds are, if you're running PHP on Mac OS or Windows, the extension's already installed.
+        CentOS/RedHat: yum install php-curl
+        Debian/Ubuntu: apt-get install php5-curl
+Copy and paste applications folder atop your own codeigniter.
